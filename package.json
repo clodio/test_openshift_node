@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Sample",
+  "keywords": [],
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clodio/test_openshift_node.git"
+  },
+  "author": "clodio",
+  "license": ""
+}
